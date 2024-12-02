@@ -1,0 +1,11 @@
+- model : myapp.course
+  pk : 1111
+  fields :
+    id : 1111
+    name : A
+
+- model : myapp.course
+  pk : 2222
+  fields :
+    id : 2222
+    name : B
